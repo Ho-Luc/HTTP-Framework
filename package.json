@@ -1,6 +1,6 @@
 {
-  "name": "product-routing",
-  "version": "0.1.0",
+  "name": "Luc-basic-routing",
+  "version": "1.1.0",
   "description": "simple restful routing for a product server",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
