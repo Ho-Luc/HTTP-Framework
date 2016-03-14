@@ -6,7 +6,6 @@ chai.use(chaiHTTP);
 var request = chai.request;
 var expect = chai.expect;
 
-require(__dirname + '/../server.js');
 var customModule = require(__dirname + '/../server');
 var router = customModule();
 var fs = require('fs');

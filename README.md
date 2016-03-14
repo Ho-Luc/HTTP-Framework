@@ -1,8 +1,14 @@
 # HTTP-Framework
 
-#H2 //insert how to install npm package//
+#H5 //insert how to install npm package//
 
-#H2 Summary
-#H3 This simple HTTP framework will handle routing for all REST methods. This package will do basic routing for on a http server.
+###
+Summary
+This simple HTTP framework will handle routing for all REST methods. This package will do basic routing for on a http server.
 
-#H2
+###
+Setup
+To initialize the server and the necessary modules, first create a JS file in the root and put in:
+var customModule = require(__dirname + '/../server');
+var router = customModule();
+var fs = require('fs');
