@@ -2,10 +2,6 @@
   "name": "product-routing",
   "version": "0.1.0",
   "description": "simple restful routing for a product server",
-  "main": "server.js",
-  "directories": {
-    "test": "test"
-  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
@@ -16,9 +12,6 @@
   },
   "author": "Luc Ho",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Ho-Luc/HTTP-Framework/issues"
-  },
   "homepage": "https://github.com/Ho-Luc/HTTP-Framework#readme",
   "devDependencies": {
     "chai": "^3.5.0",
