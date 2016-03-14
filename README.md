@@ -1,6 +1,6 @@
 # HTTP-Framework
 
-To install npm package: npm i Luc-basic-routing
+To install npm package: npm i luc-basic-routing
 
 ### Summary
 This simple HTTP framework will handle routing for all REST methods. This package will do basic routing for on a http server.
